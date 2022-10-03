@@ -20,7 +20,7 @@ At the beginning there are four steps (It will save data and avoid wasting your 
 
 
 ### Pre-Setup Warning
-
+Add a test case for setting pre-setup warning
 Before installing you need to be aware that this folder contains binary files (.exe, .etc) inside `drivers`' folder from an old ChromeDriver's release for a wider compatibility.
 
 But don't worry... if you feel unsafe you can download these files by yourself (just put there because there are people who can't do these by themselves).
